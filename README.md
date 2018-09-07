@@ -9,7 +9,4 @@ The base images are all included in the Links folder so you can just edit them i
 
 With this template you can develope a very basic email newsletter or campaign message just by swapping out images and retyping the copy in each section.
 
-https://github.com/nicktesla2011/html-email-template/blob/master/emailTemplate.png
-
-
 ![alt text](https://github.com/nicktesla2011/html-email-template/blob/master/emailTemplate.png)
